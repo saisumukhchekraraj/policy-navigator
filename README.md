@@ -203,14 +203,11 @@ file-handling
 
 ## Screenshots
 
-### Home Screen
-(Add screenshot here)
-
 ### Authority Panel
-(Add screenshot here)
+![Authority Panel](images/authority.jpeg)
 
 ### Public User Panel
-(Add screenshot here)
+![Public User Panel](images/public.jpeg)
 
 ---
 
