@@ -178,7 +178,7 @@ This project helped us understand:
 ## Contributors
 
 - Sai Sumukh Chekraraj
-- [Teammate Name]
+- Sanaboina KeerthiSrija
 
 ---
 
